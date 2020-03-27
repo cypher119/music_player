@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">music_player</string>
+    <string name="staticX">staticX music limited</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="volume">Volume</string>
+</resources>
